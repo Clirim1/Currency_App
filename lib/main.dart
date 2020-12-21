@@ -67,6 +67,8 @@ class _Corrency_ConverterState extends State<Corrency_Converter> {
     });
   }
 
+  //just a comment
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
